@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/typescript-testing-todolist/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/typescript-testing-todolist/static/js/main.a0a488e0.chunk.js",
+    "main.js.map": "/typescript-testing-todolist/static/js/main.a0a488e0.chunk.js.map",
+    "runtime-main.js": "/typescript-testing-todolist/static/js/runtime-main.85bd0a46.js",
+    "runtime-main.js.map": "/typescript-testing-todolist/static/js/runtime-main.85bd0a46.js.map",
+    "static/js/2.6575e0e5.chunk.js": "/typescript-testing-todolist/static/js/2.6575e0e5.chunk.js",
+    "static/js/2.6575e0e5.chunk.js.map": "/typescript-testing-todolist/static/js/2.6575e0e5.chunk.js.map",
+    "static/js/3.7a08ccbd.chunk.js": "/typescript-testing-todolist/static/js/3.7a08ccbd.chunk.js",
+    "static/js/3.7a08ccbd.chunk.js.map": "/typescript-testing-todolist/static/js/3.7a08ccbd.chunk.js.map",
+    "index.html": "/typescript-testing-todolist/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/typescript-testing-todolist/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6575e0e5.chunk.js.LICENSE.txt": "/typescript-testing-todolist/static/js/2.6575e0e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85bd0a46.js",
+    "static/js/2.6575e0e5.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a0a488e0.chunk.js"
+  ]
+}
